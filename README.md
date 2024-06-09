@@ -23,7 +23,6 @@ If the length of the string is divisible by 3, reverse the entire string.
 If the length of the string is divisible by 5, replace each character with its ASCII code.
 If the length of the string is divisible by both 3 and 5 (i.e., divisible by 15), perform both operations in the order specified above.
 
-Instructions to Set Up and Run the Project
 
 Instructions to Set Up and Run the Project
 Prerequisites
@@ -36,7 +35,7 @@ Node.js and npm (for running JavaScript outside the browser)
 Step-by-Step Setup
 
 1.Clone the Repository
-git clone https://github.com/your-username/coa-taskforce.git
+git clone (reository url)
 cd coa-taskforce
 
 
